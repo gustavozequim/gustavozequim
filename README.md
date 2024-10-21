@@ -9,8 +9,11 @@
 <a href="mailto:gustavozequim9@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<div style="width: 20px;">
+<hr style="height: 1em">
+<div style="width: 20px; display: inline; justify-content: space-around;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width='50' height='50'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width='50' height='50'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width='50' height='50'/>
 </div>
 
 
