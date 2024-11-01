@@ -2,7 +2,8 @@
 
 - 🔭 Atualmente minha principal atuação é com Python;
 - 🌱 Estou estudando programção web: JavaScript, HTML e CSS;
-- 🧐 Caminhando para começar estudos em Node.js.
+- 🧐 Caminhando para começar estudos em Node.js;
+- 📖 Estudando Django.
 <div>
 <a href="https://github.com/gustavozequim/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavozequim&langs_count=8&theme=dracula" alt="Top Langs" />
