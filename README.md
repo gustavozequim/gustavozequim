@@ -1,9 +1,7 @@
 ## Olá, me chamo Gustavo Zequim 👋
 
 - 🔭 Atualmente minha principal atuação é com Python;
-- 🌱 Estou estudando programção web: JavaScript, HTML e CSS;
-- 🧐 Caminhando para começar estudos em Node.js;
-- 📖 Estudando Django.
+- 🌱 Estou estudando Java;
 <div>
 <a href="https://github.com/gustavozequim/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavozequim&langs_count=8&theme=dracula" alt="Top Langs" />
@@ -14,6 +12,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width='40' height='40'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width='40' height='40'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width='40' height='35'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" width='40' height='35'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width='40' height='35'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width='40' height='40'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width='40' height='35'/>
