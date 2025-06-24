@@ -1,4 +1,4 @@
-## Olá, me chamo Gustavo Zequim 👋
+## Olá, me chamo Gustavo Maldonado 👋
 
 - 🔭 Atualmente minha principal atuação é com Python;
 - 🌱 Estou estudando Java;
