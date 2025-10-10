@@ -1,7 +1,17 @@
 ## Olá, me chamo Gustavo Maldonado 👋
 
-- 🔭 Atualmente minha principal atuação é com Python;
-- 🌱 Estou estudando Java;
+### 📚 Estudos & Roadmap
+
+### 📆 Atualmente estudando:
+-  Python avançado (POO, testes com Pytest, API REST)
+-  Banco de Dados SQL
+-  Spring Boot e API REST em Java
+-  Docker e deploy
+
+### 💡 Próximos passos:
+-  Criar pipeline CI/CD com GitHub Actions
+-  Publicar uma API no Render ou Railway
+-  Adicionar testes automatizados aos projetos
 <div>
 <a href="https://github.com/gustavozequim/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavozequim&langs_count=8&theme=dracula" alt="Top Langs" />
