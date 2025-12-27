@@ -8,11 +8,6 @@
 -  Spring Boot e API REST em Java
 -  Docker e deploy
 
-### 💡 Próximos passos:
--  Criar pipeline CI/CD com GitHub Actions
--  Publicar uma API no Render ou Railway
--  Adicionar testes automatizados aos projetos
-
 ### Curiosidades:
 -  🎸 Músico nas horas vagas (uma banda de indie rock)
 -  💻 Apaixonado por tecnologia e open source
