@@ -7,12 +7,6 @@
 -  Banco de Dados SQL
 -  Spring Boot e API REST em Java
 -  Docker e deploy
-
-### Curiosidades:
--  🎸 Músico nas horas vagas (uma banda de indie rock)
--  💻 Apaixonado por tecnologia e open source
--  ☕ Fã de café e código limpo
--  Paixão secreta por Sistemas Embarcados 😊
 <div>
   <hr style="height: 0.5px;">
 </div>
