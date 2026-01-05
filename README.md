@@ -1,8 +1,6 @@
 ## Olá, me chamo Gustavo Maldonado 👋
 
-### 📚 Estudos & Roadmap
-
-### 📆 Atualmente estudando:
+### 📆 Atualmente com as seguintes skills:
 -  Python avançado (POO, testes com Pytest, API REST)
 -  Banco de Dados SQL
 -  Spring Boot e API REST em Java
