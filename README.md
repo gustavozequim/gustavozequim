@@ -1,10 +1,17 @@
 ## Olá, me chamo Gustavo Maldonado 👋
 
 ### 📆 Atualmente com as seguintes skills:
+DEV
 -  Python avançado (POO, testes com Pytest, API REST)
 -  Banco de Dados SQL
 -  Spring Boot e API REST em Java
 -  Docker e deploy
+-  JavaScript, HTML e CSS básico
+
+Outros:
+-  Redes
+-  Cibersegurança (RedTeam)
+-  Hardware
 <div>
   <hr style="height: 0.5px;">
 </div>
