@@ -10,7 +10,7 @@ DEV
 
 Outros:
 -  Redes
--  Cibersegurança (RedTeam)
+-  Cibersegurança
 -  Hardware
 <div>
   <hr style="height: 0.5px;">
